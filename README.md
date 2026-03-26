@@ -20,10 +20,14 @@ Rungseang Kongsuk 663020292-1
 
 **รวมทั้งหมด: 100%**
 ---
-
-### สรุปเนื้อหาแต่ละคาบ
-| Chapter | เนื้อหา |
-|---------|----------|
-| I       |[Introduction: เรื่องของ Data mining ว่ามีที่มาที่ไปอย่างไร](https://github.com/znumunz/BSC_DPDM2025/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%2001Intro.pdf)|
-| II      |[Get to know your data: ปะรเภทของ Data, โครงสร้างข้อมูล ประเภทตัวแปร , ทบทวน stat และ DataViz](https://github.com/znumunz/BSC_DPDM2025/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%2002Data.pdf)|
-
+### สรุปเนื้อหาแต่ละคาบ (Lecture Notes)
+| Chapter | Content & Resource |
+|:---:|:---|
+| I | [สรุป 01Intro.pdf](https://drive.google.com/file/d/1LwleV9z4pUZ8lgmEXt3lp81EClm80oeD/view?usp=share_link) |
+| II | [สรุป 02Data.pdf](https://drive.google.com/file/d/1-9i23FNUKM6ID6IlOwVnbt5O_0e8Au9F/view?usp=share_link) |
+| III | [3Data Preprocessing.pdf](https://drive.google.com/file/d/1IujuHR3yQA44kBR1MoeB4NNw_RlhHmZv/view?usp=share_link) |
+| VI | [6Mining Association Correlations.pdf](https://drive.google.com/file/d/1OC_dyGNYdwjGuMIGdCvLNQszNT9DQfqp/view?usp=sharing) |
+| VIII | [8Classification Basic Conceptsแรก.pdf](https://drive.google.com/file/d/1dyuclxl2h63fLWn1e-0_lXlzSEFrl434/view?usp=share_link) <br> [8Classification Basic Conceptsหลัง.pdf](https://drive.google.com/file/d/1hFOkzTn8HI9pM3p0LojufNc-p8HK-TGS/view?usp=share_link) |
+| IX | [09ClassAdvanced.pdf](https://drive.google.com/file/d/1n5KfXW-J4Sn5GqRjG2h0jCxGxLMbBMQP/view?usp=share_link) |
+| X | [10Cluster Analysis Basiconcepts and Methods.pdf](https://drive.google.com/file/d/10JY8sFNX6flQ9QVr2FdOeiu9fFjwZpZl/view?usp=share_link) |
+| AI | [AI บุญเสริม.pdf](https://drive.google.com/file/d/1T4TpMirEniwBqg9AxEOCweyb0_ekSlyB/view?usp=share_link) |
